@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SupathDh
+- 👋 Hi, I’m @supathdhitalGEO
 - 👀 I’m interested in coding related to web maps.
 - 🌱 I’m currently learning different library of javascript  as well as backend development works.
 - 📫 U can reach me using twitter by clkicking https://twitter.com/PhoEniX_suPath.
