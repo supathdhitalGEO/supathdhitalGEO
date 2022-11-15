@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supath Dhital</h1>
 <h3 align="center">A passionate web GIS developer from Nepal</h3>
 
-- 🌱 I’m currently learning **GDAL**
+- 🌱 I’m currently learning **Spatial Data Science**
 
 - 👨‍💻 All of my projects are available at [supathdhital.com.np](supathdhital.com.np).
 
