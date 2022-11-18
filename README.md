@@ -21,4 +21,4 @@
 
 ![GitHub Stats ](https://github-readme-stats.vercel.app/api?username=supathdhitalGEO&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supathdhitalGEO&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supathdhitalGEO&theme=default)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supathdhitalGEO&theme=default)
