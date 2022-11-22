@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Supath Dhital</h1>
-<h3 align="center">A passionate web GIS developer from Nepal</h3>
+<h3 align="center">A passionate and Enthusiastic Geospatial Data Science Learner from Nepal</h3>
 
 - 🌱 I’m currently learning **Spatial Data Science**
 
