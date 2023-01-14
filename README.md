@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supath Dhital</h1>
 <h3 align="center">A passionate and Enthusiastic Geospatial Data Science Learner from Nepal</h3>
-
+<br>![Profile Views](https://komarev.com/ghpvc/?username=supathdhitalGEO&color=green&style=plastic)
 - 🌱 I’m currently learning **Spatial Data Science**
 
 - 👨‍💻 All of my projects are available at [supathdhital.com.np](supathdhital.com.np).
@@ -22,4 +22,4 @@
 ![GitHub Stats ](https://github-readme-stats.vercel.app/api?username=supathdhitalGEO&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supathdhitalGEO&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supathdhitalGEO&theme=default)
-<br>![Profile Views](https://komarev.com/ghpvc/?username=supathdhitalGEO&color=green&style=plastic)
+
