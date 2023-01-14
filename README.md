@@ -22,4 +22,4 @@
 ![GitHub Stats ](https://github-readme-stats.vercel.app/api?username=supathdhitalGEO&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supathdhitalGEO&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supathdhitalGEO&theme=default)
-![Profile Views](https://komarev.com/ghpvc/?username=supathdhitalGEO&color=green&style=plastic)
+<br>![Profile Views](https://komarev.com/ghpvc/?username=supathdhitalGEO&color=green&style=plastic)
