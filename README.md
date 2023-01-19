@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and Enthusiastic Geospatial Data Science Learner from Nepal</h3>
 - 🌱 I’m currently learning **Spatial Data Science**
 
-- 👨‍💻 All of my projects are available at [supathdhital.com.np](supathdhital.com.np).
+- 👨‍💻 All of my activities are available at [https://www.linkedin.com/in/supath-dhital-628b47222/](Supath Dhital).
 
 - 💬 Ask me about **GIS RS Mapping.**
 
