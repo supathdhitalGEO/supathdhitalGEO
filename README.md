@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Supath Dhital</h1>
-<h3 align="center">A passionate and Enthusiastic Geospatial Data Science Learner from Nepal</h3>
-- 🌱 I’m currently learning **Spatial Data Science.**
+- 🌱 I’m currently pursuing MS in Geography student at The University of Alabama Tuscaloosa.
 
 - 👨‍💻 All of my activities are available at [Supath Dhital](https://www.linkedin.com/in/supath-dhital-628b47222/).
 
-- 💬 Ask me about **GIS RS Mapping.**
+- 💬 Ask me about GIS RS Mapping
 
-- 📫 You can reach me by using **supathdh990@gmail.com**
+- 📫 You can reach me by using sdhital@crimson.ua.edu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
