@@ -85,11 +85,11 @@ I'm a graduate student in geography at the University of Alabama, specializing i
   <a href="https://qgis.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/2048px-QGIS_logo_new.svg.png" alt="QGIS" width="0" height="40"/></a>
   <a href="https://survey123.arcgis.com/" target="_blank"><img src="https://survey123.arcgis.com/assets/img/Survey123_for_ArcGIS_220-ba28fef2.png" alt="Survey123" width="40" height="40"/></a>
   <a href="https://step.esa.int/main/toolboxes/snap/" target="_blank"><img src="https://eo4society.esa.int/wp-content/uploads/2018/11/SNAP_icon-400x400.jpg" alt="SNAP" width="40" height="40"/></a>
-  <a href="https://www.globalmapper.com/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2019/01/global-mapper-vector-logo.png" alt="Global Mapper" width="80" height="50"/></a>
+  <a href="https://www.globalmapper.com/" target="_blank"><img src="https://i0.wp.com/altigator.com/wp-content/uploads/GM_logo-1.jpg?resize=300%2C168" alt="Global Mapper" width="70" height="40"/></a>
   <a href="https://www.ibm.com/products/spss-statistics" target="_blank"><img src="https://icon.icepanel.io/Technology/svg/IBM-SPSS-Statistics.svg" alt="SPSS" width="40" height="40"/></a>
   <a href="https://www.autodesk.com/" target="_blank"><img src="https://damassets.autodesk.net/content/dam/mgs/mgs/brand-elements/autodesk%20logo/logo-acceptable-lightbackR1-1024x400.jpg" alt="Autodesk" width="90" height="40"/></a>
   <a href="https://www.pix4d.com/product/pix4dmapper-photogrammetry-software" target="_blank"><img src="https://images.ctfassets.net/go54bjdzbrgi/7cbtbajvAjVUBPbrEUPYP6/7303600379873d7d622d000be0b0b62a/new_mapper_name_light_h.svg" alt="Pix4DMapper" width="80" height="50"/></a>
-  <a href="https://josm.openstreetmap.de/" target="_blank"><img src="https://josm.openstreetmap.de/logo-macos.png" alt="JOSM" width="40" height="40"/></a>
+  <a href="https://josm.openstreetmap.de/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/JOSM_Logotype_2019.svg/440px-JOSM_Logotype_2019.svg.png" alt="JOSM" width="40" height="40"/></a>
   <a href="https://www.hec.usace.army.mil/software/hec-ras/" target="_blank"><img src="https://www.hec.usace.army.mil/confluence/download/attachments/39290571/R2DUM?version=1&modificationDate=1604690982435&api=v2" alt="HEC-RAS" width="40" height="40"/></a>
 </p>
 
