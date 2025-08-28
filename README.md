@@ -50,7 +50,7 @@ I'm a graduate student in geography at the University of Alabama, specializing i
     <img src="https://geemap.org/assets/logo.png" alt="geemap" width="40" height="40"/>
   </a>
   <a href="https://earthengine.google.com/" target="_blank">
-    <img src="https://earthengine.google.com/static/images/earth-engine-logo.png" alt="Google Earth Engine" width="40" height="40"/>
+    <img src="https://images.icon-icons.com/1508/PNG/512/googleearth-engine_104576.png" alt="Google Earth Engine" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/>
